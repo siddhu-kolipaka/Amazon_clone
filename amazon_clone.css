@@ -1,0 +1,198 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.hov:hover {
+    border: solid white 2px;
+}
+
+.navbar {
+    height: 60px;
+    width: 100%;
+    background-color: #131921;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.deliver {
+    width: 90px;
+    padding: 10px;
+}
+
+.txt {
+    display: inline-block;
+}
+
+.icon {
+    color: white;
+    font-size: 18px;
+    display: inline-block;
+    margin-top: 8px;
+}
+
+.delto {
+    color: white;
+    font-size: 12px;
+    margin-left: 5px;
+
+}
+
+.hyd {
+    color: white;
+    font-size: 14px;
+
+}
+
+.searchbar {
+    height: 40px;
+    width: 40rem;
+    background-color: blueviolet;
+    border-radius: 4px;
+    display: flex;
+}
+
+.select {
+    height: 40px;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+
+
+}
+
+.sear {
+    margin: 0px;
+    padding: 0px;
+    height: 40px;
+    width: 100%;
+    border: none;
+}
+
+.searic {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 45px;
+    background-color: orange;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+.sign {
+    color: white;
+    padding: 10px;
+}
+
+.hello {
+    font-size: 12px;
+    text-align: center;
+}
+
+.acc {
+    text-align: center;
+    font-size: 14px;
+    font-weight: 600;
+}
+.cart{
+    padding: 10px;
+    width: 100px;
+}
+.car{
+    font-size: 30px;
+    color: white;
+    display: inline-block;
+}
+.Cart{
+    color: white;
+
+}
+
+.nav2{
+    padding: 0px 20px;
+    background-color: #0f1111;
+    height: 39px;
+    display: flex;
+    justify-content: flex-start;
+    gap: 20px;
+    align-items: center;
+}
+
+.links{
+    color: white;
+    text-decoration: none;
+}
+
+.haha{
+    width: 100%;
+}
+
+.container{
+   width: 100%;
+   position: relative;
+   top: -300px;
+   left: 5px;
+}
+.container a{
+    text-decoration: none;
+    color: rgba(0, 153, 236, 0.927);
+    font-weight: 100;
+    font-size: 20px;
+}
+.pics{
+background-color: white;
+height: 500px;
+width: 450px;
+display: inline-block;
+margin: 10px;
+font-weight: 600;
+font-size: 25px;
+padding-left: 30px;
+padding-top: 10px;
+
+
+}
+
+.container img{
+    width: 400px;
+    display: flex;
+    align-items: first baseline;
+    padding-top: 10px;
+}
+
+
+
+.hero{
+    background-color: lightgray;
+    width: 100%;
+    height: 1400px;
+}
+
+.cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    background-color: #0f1111;
+    height: 300px;
+    width: 100%;
+    line-height: 30px;
+}
+
+
+
+.cont div{
+    padding: 0px 20px;
+    margin: 0px 20px;
+    color: white;
+    font-weight: 400;
+    font-size: larger;
+}
+.cont a{
+    color: white;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+}
